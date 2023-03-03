@@ -1,2 +1,2 @@
-# Ayushi-Gaur
-My Portfolio
+# codin21.github.io
+My Portfolio Website
